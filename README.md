@@ -1,6 +1,10 @@
 # spark-ml-prediction
 
-**Overview**
+**Problem Statement**
+
+Use data mining to predict sightings of the Red-winged Blackbird in birding checklists
+
+**Methodology**
 
 The Project uses Spark MLlib and Random Forest Classification algorithm to train a model using labeled data set and to predict the sightings of Red-winged Blackbird in unlabeled data set. Random Forests are ensembles of decision trees. 
 As ensemble technique is used , project goal is to get a good bias while training specific decision tree and to reduce the risk of overfitting and achieve good variance by combining many of these decision trees.
