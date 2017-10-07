@@ -2,7 +2,7 @@
 
 **Problem Statement**
 
-Use data mining to predict sightings of the Red-winged Blackbird in birding checklists
+Use data mining to predict sightings of the Red-winged Blackbird (Agelaius phoeniceus) in each birding session as accurately as possible.
 
 **Methodology**
 
